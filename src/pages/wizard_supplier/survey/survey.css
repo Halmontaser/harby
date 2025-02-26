@@ -1,0 +1,140 @@
+/*! surveyjs - Modern Theme v2.0 */
+/*! Updated: 2023-10-01 */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+/* Updated Root Variables */
+:root {
+  --primary: #6366F1;
+  --secondary: #EC4899;
+  --background: #F9FAFB;
+  --foreground: #111827;
+  --border: #E5E7EB;
+  --font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.1);
+  --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
+  --radius-base: 8px;
+}
+
+/* Base Button Styles */
+.sd-btn {
+  border-radius: var(--radius-base);
+  transition: all 0.2s ease;
+  padding: 12px 24px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  box-shadow: var(--shadow-sm);
+  
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+  }
+
+  &--action {
+    background-image: linear-gradient(45deg, var(--primary), #818CF8);
+    color: white !important;
+    
+    &:hover {
+      background-image: linear-gradient(45deg, #4F46E5, #6D28D9);
+    }
+  }
+}
+
+/* Modern Input Fields */
+.sd-input {
+  border-radius: var(--radius-base);
+  border: 1px solid var(--border) !important;
+  transition: border-color 0.2s ease;
+  
+  &:focus {
+    border-color: var(--primary) !important;
+    box-shadow: 0 0 0 3px rgba(99,102,241,0.1);
+  }
+}
+
+/* Card Components */
+.sd-element--with-frame {
+  box-shadow: var(--shadow-md);
+  border: none !important;
+  border-radius: var(--radius-base);
+  background: white;
+}
+
+/* Dropdown Enhancements */
+.sd-dropdown {
+  background-image: url("data:image/svg+xml,%3Csvg..."); /* Add your SVG arrow */
+  background-position: right 1rem center;
+  background-repeat: no-repeat;
+  
+  &__value {
+    padding-right: 2.5rem;
+  }
+}
+
+.sd-dropdown-popup {
+  .sv-list__item--selected {
+    background: rgba(99,102,241,0.1) !important;
+  }
+}
+
+/* Table Modernization */
+.sd-table {
+  border-radius: var(--radius-base);
+  overflow: hidden;
+  background: white;
+
+  &__cell {
+    padding: 16px;
+    border-bottom: 1px solid var(--border);
+    
+    &--header {
+      background: var(--background);
+      font-weight: 600;
+      color: var(--foreground);
+    }
+  }
+}
+
+/* Checkbox/Radio Updates */
+.sd-checkbox,
+.sd-radio {
+  &__decorator {
+    border: 2px solid var(--border);
+    border-radius: 6px;
+    transition: all 0.2s ease;
+  }
+
+  &--checked {
+    .sd-checkbox__decorator,
+    .sd-radio__decorator {
+      border-color: var(--primary);
+      background: var(--primary);
+    }
+  }
+}
+
+/* Animation Enhancements */
+.sd-action-bar-item,
+.sd-checkbox,
+.sd-radio {
+  transition: all 0.2s ease;
+}
+
+/* Responsive Overrides */
+@media (max-width: 768px) {
+  .sd-body--responsive {
+    padding: 24px !important;
+  }
+
+  .sd-btn {
+    width: 100%;
+    margin-bottom: 12px;
+  }
+
+  .sd-table {
+    display: block;
+    overflow-x: auto;
+  }
+}
+
+/* Remainder of original CSS below with updated variables... */

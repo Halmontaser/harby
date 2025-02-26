@@ -1,0 +1,101 @@
+Category,English Name,Arabic Name,Lucide Icon
+Administrative and Legal Documents,Company Registration Certificate,شهادة تسجيل الشركة,file-check
+Administrative and Legal Documents,Tax Registration Certificate,شهادة تسجيل الضرائب,file-check
+Administrative and Legal Documents,Tax Clearance Certificate,شهادة إفراغ الضرائب,file-check
+Administrative and Legal Documents,Commercial License,رخصة تجارية,file-signature
+Administrative and Legal Documents,Articles of Incorporation,وثائق التأسيس,file-text
+Administrative and Legal Documents,Power of Attorney,وكالة قانونية,file-pencil
+Administrative and Legal Documents,Supplier Registration Form,نموذج تسجيل المشترك,file-form
+Administrative and Legal Documents,Certificate of Good Standing,شهادة الوضع الجيد,file-check
+Administrative and Legal Documents,Memorandum of Association,مذكرة التأسيس,file-text
+Administrative and Legal Documents,Articles of Association,وثائق الجمعية,file-text
+Administrative and Legal Documents,Partnership Deed,عقد الشراكة,file-text
+Administrative and Legal Documents,Business Permit,تصريح الأعمال,file-check
+Administrative and Legal Documents,Import/Export License,رخصة الاستيراد/التصدير,file-check
+Administrative and Legal Documents,Chamber of Commerce Registration,تسجيل في غرفة التجارة,file-check
+Administrative and Legal Documents,Legal Representative ID,هوية الممثل القانوني,file-user
+Administrative and Legal Documents,Company Bylaws,النظام الأساسي للشركة,file-text
+Administrative and Legal Documents,Proof of Address,إثبات العنوان,file-map
+Administrative and Legal Documents,Non-Bankruptcy Certificate,شهادة عدم الإفلاس,file-check
+Administrative and Legal Documents,Litigation History,تاريخ التقاضي,file-text
+Administrative and Legal Documents,Insurance Certificate,شهادة التأمين,file-shield
+Financial Documents,Financial Statements,البيانات المالية,file-spreadsheet
+Financial Documents,Bank Statement,بيان البنك,file-spreadsheet
+Financial Documents,Bid Security/Bank Guarantee,ضمان المشروع/ضمان البنك,file-shield
+Financial Documents,Tender Price Quote,عرض سعر المشروع,file-dollar
+Financial Documents,Proof of Insurance,إثبات التأمين,file-shield
+Financial Documents,Balance Sheet,الميزانية العمومية,file-spreadsheet
+Financial Documents,Income Statement,بيان الدخل,file-spreadsheet
+Financial Documents,Cash Flow Statement,بيان التدفق النقدي,file-spreadsheet
+Financial Documents,Auditor's Report,تقرير المدقق,file-spreadsheet
+Financial Documents,Credit Rating Report,تقرير التصنيف الائتماني,file-spreadsheet
+Financial Documents,Financial Projections,التوقعات المالية,file-spreadsheet
+Financial Documents,Proof of Funding,إثبات التمويل,file-dollar
+Financial Documents,Letter of Credit,خطاب الاعتماد,file-text
+Financial Documents,Performance Bond,ضمان الأداء,file-shield
+Financial Documents,Advance Payment Guarantee,ضمان الدفع المسبق,file-shield
+Technical Documents,Technical Proposal,الاقتراح الفني,file-text
+Technical Documents,Product/Service Specifications,مواصفات المنتج/الخدمة,file-text
+Technical Documents,Work Experience Documentation,وثائق خبرة العمل,file-text
+Technical Documents,Team Qualifications/CVs,مؤهلات الفريق/السير الذاتية,file-user
+Technical Documents,Quality Certifications,شهادات الجودة,file-check
+Technical Documents,Health and Safety Plan,خطة الصحة والسلامة,file-shield
+Technical Documents,Project Timeline,جدول زمني للمشروع,file-clock
+Technical Documents,Risk Assessment,تقييم المخاطر,file-shield
+Technical Documents,Environmental Impact Assessment,تقييم الأثر البيئي,file-leaf
+Technical Documents,Technical Drawings,الرسومات الفنية,file-image
+Technical Documents,Bill of Materials,قائمة المواد,file-text
+Technical Documents,Maintenance Plan,خطة الصيانة,file-text
+Technical Documents,Training Plan,خطة التدريب,file-text
+Technical Documents,Warranty Information,معلومات الضمان,file-text
+Technical Documents,Product Catalog,كتالوج المنتج,file-text
+Compliance and Ethical Documents,Code of Conduct Acknowledgment,إقرار مدونة السلوك,file-check
+Compliance and Ethical Documents,Conflict of Interest Declaration,إعلان تضارب المصالح,file-text
+Compliance and Ethical Documents,Anti-Fraud/Anti-Corruption Declaration,إعلان مكافحة الاحتيال/الفساد,file-text
+Compliance and Ethical Documents,Environmental/Social Responsibility Statement,بيان المسؤولية البيئية/الاجتماعية,file-leaf
+Compliance and Ethical Documents,Child Protection Policy,سياسة حماية الطفل,file-shield
+Compliance and Ethical Documents,Gender Equality Policy,سياسة المساواة بين الجنسين,file-users
+Compliance and Ethical Documents,Anti-Harassment Policy,سياسة مكافحة التحرش,file-shield
+Compliance and Ethical Documents,Data Protection Policy,سياسة حماية البيانات,file-lock
+Compliance and Ethical Documents,Whistleblower Policy,سياسة المبلغين عن المخالفات,file-shield
+Compliance and Ethical Documents,Sustainability Report,تقرير الاستدامة,file-leaf
+Bid Submission Forms,Bid Submission Letter,رسالة تقديم المشروع,file-text
+Bid Submission Forms,Form of Tender,نموذج المشروع,file-form
+Bid Submission Forms,Schedule of Requirements,جدول المتطلبات,file-text
+Bid Submission Forms,Certificate of Independent Bid Determination,شهادة تحديد المشروع المستقل,file-check
+Bid Submission Forms,Bid Validity Declaration,إعلان صلاحية المشروع,file-text
+Bid Submission Forms,Bidder's Qualification Statement,بيان تأهيل المشترك,file-text
+Bid Submission Forms,Technical Bid Form,نموذج المشروع الفني,file-form
+Bid Submission Forms,Financial Bid Form,نموذج المشروع المالي,file-form
+Bid Submission Forms,Power of Attorney for Bid Signing,وكالة قانونية لتوقيع المشروع,file-pencil
+Bid Submission Forms,Joint Venture Agreement,اتفاقية المشروع المشترك,file-text
+Supporting Documents,Company Profile,ملف الشركة,file-text
+Supporting Documents,References,المراجع,file-users
+Supporting Documents,Delivery Schedule,جدول التسليم,file-clock
+Supporting Documents,Sample Documents,نماذج الوثائق,file-text
+Supporting Documents,Brochures,الكتيبات,file-image
+Supporting Documents,Product Datasheets,ورق بيانات المنتج,file-text
+Supporting Documents,Client Testimonials,شهادات العملاء,file-users
+Supporting Documents,Case Studies,دراسات الحالة,file-text
+Supporting Documents,Proof of Concept,إثبات المفهوم,file-text
+Supporting Documents,Prototypes,النماذج الأولية,file-image
+Yemen-Specific Documents,Local Agent Authorization,تفويض الوكيل المحلي,file-user
+Yemen-Specific Documents,Customs Clearance Capability,قدرة التخليص الجمركي,file-truck
+Yemen-Specific Documents,Security Plan,خطة الأمن,file-shield
+Yemen-Specific Documents,Conflict Zone Operation Plan,خطة العمل في مناطق النزاع,file-shield
+Yemen-Specific Documents,Local Partnership Agreements,اتفاقيات الشراكة المحلية,file-text
+Yemen-Specific Documents,Humanitarian Access Permits,تصاريح الوصول الإنساني,file-check
+Yemen-Specific Documents,Local Staff Training Plan,خطة تدريب الموظفين المحليين,file-text
+Yemen-Specific Documents,Cultural Sensitivity Training,تدريب الحساسية الثقافية,file-users
+Yemen-Specific Documents,Local Language Documentation,وثائق باللغة المحلية,file-text
+Yemen-Specific Documents,Local Regulatory Compliance,الامتثال للتنظيمات المحلية,file-check
+Additional Documents,Risk Management Plan,خطة إدارة المخاطر,file-shield
+Additional Documents,Quality Management Plan,خطة إدارة الجودة,file-check
+Additional Documents,Stakeholder Engagement Plan,خطة مشاركة أصحاب المصلحة,file-users
+Additional Documents,Monitoring and Evaluation Plan,خطة الرصد والتقييم,file-text
+Additional Documents,Sustainability Plan,خطة الاستدامة,file-leaf
+Additional Documents,Innovation and Technology Plan,خطة الابتكار والتكنولوجيا,file-code
+Additional Documents,Corporate Social Responsibility Report,تقرير المسؤولية الاجتماعية للشركات,file-leaf
+Additional Documents,Diversity and Inclusion Policy,سياسة التنوع والشمول,file-users
+Additional Documents,Carbon Footprint Report,تقرير بصمة الكربون,file-leaf
+Additional Documents,Intellectual Property Rights Compliance,الامتثال لحقوق الملكية الفكرية,file-lock

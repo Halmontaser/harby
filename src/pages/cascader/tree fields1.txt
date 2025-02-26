@@ -1,0 +1,62 @@
+<template>
+  <el-cascader
+    :options="options"
+    v-model="selectedValue"
+    placeholder="Please select"
+    :props="cascaderProps"
+    @change="handleChange"
+    :show-all-levels="false"
+    :multiple="true"
+  />
+</template>
+
+<script>
+import { ref, onMounted } from 'vue';
+import { Cascader } from 'element-plus';
+import 'element-plus/lib/theme-chalk/index.css';
+
+export default {
+  components: {
+    'el-cascader': Cascader
+  },
+  setup() {
+    const options = ref([]);
+    const selectedValue = ref([]);
+
+    const cascaderProps = {
+      multiple: true,
+      checkStrictly: true,
+      emitPath: false
+    };
+
+    const fetchTreeData = async () => {
+      try {
+        const response = await fetch('/api/method/your_app.your_module.get_tree_data');
+        const data = await response.json();
+        options.value = data.message;
+      } catch (error) {
+        console.error('Error fetching tree data:', error);
+      }
+    };
+
+    const handleChange = (value) => {
+      console.log('Selected value:', value);
+    };
+
+    onMounted(() => {
+      fetchTreeData();
+    });
+
+    return {
+      options,
+      selectedValue,
+      cascaderProps,
+      handleChange
+    };
+  }
+};
+</script>
+
+<style scoped>
+/* Your scoped styles here */
+</style>

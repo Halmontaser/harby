@@ -1,0 +1,38 @@
+
+create supplier without permission the parameters as follwing [licence,name,company,manager] return name
+make validation for licence or name as uniqes
+make the signup
+
+create primary contact without premission make_contact and linked
+make user and send the password send_pass 
+attached the contact and user to supplier to user contact 
+add role as supplier and manager 
+add redirect to wizard page
+make role for supplier admin
+
+
+make the supplier as initial state which make the wizard steps
+make the validate based on stage state and make what the required fields
+basic registration completed
+level1 
+level2
+
+add_supplier_documents
+add_supplier_projects
+add_most_clients
+add_supplier_users
+add_supplier_contacts
+add_reference
+add_accounts
+add_finiancial
+add_subiscriptions
+assignment to contacts
+add_activity,
+get_supplier_for_active_user
+get_supplier_user_role
+
+
+
+
+
+
